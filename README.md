@@ -14,6 +14,7 @@ How does it work:
 - 1040-192=848
 - So i added 848 to the code of every symbol and restored the document
 
+# Восстановить UTF-8 txt-файл сохраненный как ANSI txt-файл
 
 Эта программа на Python восстанавливает txt-файл в кодировке UTF-8, сохраненный как файл в кодировке ANSI
 Если язык документа не русский, вам может потребоваться изменить число 848
