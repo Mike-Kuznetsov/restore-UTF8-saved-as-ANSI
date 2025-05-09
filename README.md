@@ -14,6 +14,8 @@ How does it work:
 - 1040-192=848
 - So i added 848 to the code of every symbol and restored the document
 
+You can use this to get the code of a symbol if you need to: https://www.cogsci.ed.ac.uk/~richard/utf-8.cgi
+
 ## Восстановить UTF-8 txt-файл сохраненный как ANSI txt-файл
 
 Эта программа на Python восстанавливает txt-файл в кодировке UTF-8, сохраненный как файл в кодировке ANSI
@@ -29,3 +31,5 @@ How does it work:
 - Код русского символа A в кодировке UTF-8 - 1040.
 - 1040-192=848
 - Поэтому я добавил 848 к коду каждого символа и восстановил документ
+
+Вы можете использовать этот сайт чтобы получить код символа, если вам необходимо: https://www.cogsci.ed.ac.uk/~richard/utf-8.cgi
